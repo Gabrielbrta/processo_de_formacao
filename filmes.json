@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "titulo": "Harry Potter",
+        "genero": "Fantasia",
+        "descricao": "Harry Potter e a Pedra Filosofal (2001) é o primeiro filme da saga de fantasia baseada nos livros de J.K. Rowling, onde o jovem bruxo Harry descobre seus poderes, entra para a escola de magia Hogwarts e enfrenta o retorno do bruxo das trevas Lord Voldemort.",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/harry-potter-aniversario.webp",
+        "gostei": 0,
+        "naoGostei": 0
+    },
+    {
+        "id": 2,
+        "titulo": "Transformers",
+        "genero": "Ação",
+        "descricao": "Transformers (2007) é um filme de ação e ficção científica dirigido por Michael Bay, onde robôs alienígenas que podem se transformar em veículos e máquinas — Autobots e Decepticons — travam uma batalha na Terra pelo controle de um poderoso artefato chamado AllSpark.",
+        "imagem": "https://www.otempo.com.br/content/dam/otempo/editorias/entretenimento/filmes-e-series/2023/5/entretenimento-filmes-de-transformers-desperdicaram-um-dos-melhores-personagens-da-franquia-1708776223.jpeg",
+        "gostei": 0,
+        "naoGostei": 0
+    },
+    {
+        "id": 3,
+        "titulo": "Interstelar",
+        "genero": "Ficção Científica",
+        "descricao": "Interestelar (Interstellar, 2014) é um filme de ficção científica dirigido por Christopher Nolan, em que um grupo de astronautas viaja por um buraco de minhoca em busca de um novo planeta habitável para salvar a humanidade diante do colapso da Terra.",
+        "imagem": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/aa5b9295-8f9c-44f5-809b-3f2b84badfbf/74a67d78-7c7e-47e8-9603-20fe2a00eae4?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+        "gostei": 0,
+        "naoGostei": 0
+    },
+    {
+        "id": 4,
+        "titulo": "Invocação Do Mal",
+        "genero": "Terror",
+        "descricao": "Invocação do Mal (The Conjuring, 2013) é um filme de terror sobrenatural dirigido por James Wan, baseado em eventos reais, que acompanha os investigadores paranormais Ed e Lorraine Warren enquanto ajudam uma família aterrorizada por uma presença demoníaca em sua casa.",
+        "imagem": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d1b146e9-7426-4463-804d-3ca656e38492/4042320736e156e9ecad5c9263e410b1f38814f3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+        "gostei": 0,
+        "naoGostei": 0
+    },
+    {
+        "id": 5,
+        "titulo": "Zatura",
+        "genero": "Fantasia",
+        "descricao": "Zathura: Uma Aventura Espacial (2005) é um filme de fantasia e ficção científica em que dois irmãos encontram um jogo de tabuleiro mágico que leva sua casa para o espaço, desencadeando perigos e aventuras até que terminem a partida.",
+        "imagem": "https://i0.wp.com/www.astropt.org/blog/wp-content/uploads/2015/12/Zathura-zathura-25392893-1280-960.jpg",
+        "gostei": 0,
+        "naoGostei": 0
+    }
+]

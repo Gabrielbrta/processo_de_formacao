@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Formulário</title>
+</head>
+<body class="body form">
+    <header>
+        <nav>
+            <div class="logo"><a href="./index.html">MOSTENFLIX</a></div>
+            <ul class="list">
+                <li>
+                    <a href="./index.html">Página Inicial</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main class="form main">
+        <form>
+            <h1>Adicionar Filme</h1>
+            <p class="error"></p>
+            <label for="title">Título *</label>
+            <input type="text" placeholder="Harry Potter" name="title" id="title">
+            <label for="gender">Gênero *</label>
+            <input type="text" placeholder="Fantasia" name="gender" id="gender">
+            <label for="image">Imagem(URL) *</label>
+            <input type="text" placeholder="www.example.com/foto.jpg" name="image" id="image">
+            <label for="description">Descrição</label>
+            <textarea rows="6" name="description" id="description" placeholder="Era uma vez..."></textarea>
+            <button type="submit" id="create">Criar</button>
+        </form>
+    </main>
+    <script type="module" src="./js/form.js"></script>
+</body>
+</html>
