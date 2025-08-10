@@ -124,7 +124,7 @@ header {
     }
 }
 
-/* PAGINA PRINCIPAL */
+/* PAGINA PRINCIPAL ------------------------------------ */
 
 main {
     width: 100%;
@@ -210,6 +210,11 @@ main {
 
                 .descricao {
                     height: 100%;
+                    overflow-wrap: break-word;
+                }
+
+                .feedback-list {
+                    font-size: .875rem;
                 }
 
                 .buttons {

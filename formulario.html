@@ -24,17 +24,17 @@
         <form>
             <h1>Adicionar Filme</h1>
             <p class="error"></p>
-            <label for="title">Título *</label>
-            <input type="text" placeholder="Harry Potter" name="title" id="title">
-            <label for="gender">Gênero *</label>
-            <input type="text" placeholder="Fantasia" name="gender" id="gender">
-            <label for="image">Imagem(URL) *</label>
-            <input type="text" placeholder="www.example.com/foto.jpg" name="image" id="image">
-            <label for="description">Descrição</label>
-            <textarea rows="6" name="description" id="description" placeholder="Era uma vez..."></textarea>
+            <label for="titulo">Título *</label>
+            <input type="text" maxlength="100" placeholder="Harry Potter" name="titulo" id="titulo">
+            <label for="genero">Gênero *</label>
+            <input type="text" maxlength="30" placeholder="Fantasia" name="genero" id="genero">
+            <label for="imagem">Imagem(URL) *</label>
+            <input type="text" placeholder="www.example.com/foto.jpg" name="imagem" id="imagem">
+            <label for="descricao">Descrição</label>
+            <textarea rows="6" maxlength="200" name="descricao" id="descricao" placeholder="Era uma vez..."></textarea>
             <button type="submit" id="create">Criar</button>
         </form>
     </main>
-    <script type="module" src="./js/form.js"></script>
+    <script src="./js/form.js"></script>
 </body>
 </html>
